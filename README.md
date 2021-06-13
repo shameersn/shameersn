@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 😀 Myself Shameer S from India
+- 😎 Experienced Full Stack JavaScript Developer
+- 👨🏻‍💻 Associate Software Architect @ **Experion Technologies**
+- 😌 I do HTML, CSS, Javascript, React, Angular, ReactNative, NodeJs, MySQL, MongoDB ...
+- 👨‍🏫 I do learn, teach and mentor 
+- 📧 [LinkedIn](https://www.linkedin.com/in/shameersn/)
+
 
 <!--
 **shameersn/shameersn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
