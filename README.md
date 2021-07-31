@@ -5,7 +5,7 @@
 - 😌 I do HTML, CSS, Javascript, React, Angular, ReactNative, NodeJs, MySQL, MongoDB ...
 - 👨‍🏫 I do learn, teach and mentor 
 - 📧 [LinkedIn](https://www.linkedin.com/in/shameersn/)
-- 🌐 http://shameer.sn/
+- 🌐 https://shameer.sn/
 
 
 <!--
