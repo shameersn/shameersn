@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 😀 Myself Shameer S from India
+- 😀 Myself Shameer S N from India
 - 😎 Experienced Full Stack JavaScript Developer
-- 👨🏻‍💻 Associate Software Architect @ **Experion Technologies**
-- 😌 I do HTML, CSS, Javascript, React, Angular, ReactNative, NodeJs, MySQL, MongoDB ...
+- 👨🏻‍💻 Software Architect @ **Experion Technologies**
+- 😌 I do HTML, CSS, Javascript, React, Angular, ReactNative, NodeJs, MySQL, MongoDB, AWS ...
 - 👨‍🏫 I do learn, teach and mentor 
 - 📧 [LinkedIn](https://www.linkedin.com/in/shameersn/)
 - 🌐 https://shameer.sn/
